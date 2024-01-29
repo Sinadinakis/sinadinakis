@@ -4,7 +4,7 @@
 I'm passioinate about frontend technologies. Some facts about me: *
 
 - 🔭  I’m currently working as Developer Core @firm24. 💙
-- 🌱  I’m currently learning to get even better in Frontend technologies. Especially when it comes to frameworks (React, Gatsby, Vue, Nuxt).
+- 🌱  I’m currently learning to get even better in Frontend technologies. Especially when it comes to frameworks (Vue 3, Nuxt 3, React, Gatsby, ).
 
 <!--
 **Sinadinakis/sinadinakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
