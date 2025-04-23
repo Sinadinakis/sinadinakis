@@ -3,8 +3,9 @@
 *Hello. I'm so glad you found my Github profile! 😍 My name is Manolis, but I'm also known as Manos. 
 I'm passioinate about frontend technologies. Some facts about me: *
 
-- 🔭  I’m currently working as Developer Core @firm24. 💙
-- 🌱  I’m currently learning to get even better in Frontend technologies. Especially when it comes to frameworks (Vue 3, Nuxt 3, tailwindcss ).
+- 🌱  I’m currently learning to get even better in Frontend technologies.
+- Especially when it comes to frameworks (Vue 3, Nuxt 3, tailwindcss, React 19 ).
+- Open to new challenges
 
 <!--
 **Sinadinakis/sinadinakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
